@@ -15,4 +15,4 @@ But if we change the extra dep to a git/commit
   commit: 8c7f4f34b75c1c410ce4b951b4410ae9a2b26031
 ```
 
-Then the command no longer works and cannot find reanimate
+and rerun `stack-to-nix`, then the command no longer works and cannot find reanimate
